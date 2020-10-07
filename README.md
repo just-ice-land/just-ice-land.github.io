@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/just-ice-land/just-ice-land.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/just-ice-land/just-ice-land.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <title>恕瑞玛的遗迹</title>
+    </head>
+  <body>
+    <h1>你们的皇帝回来了</h1>
+    <p>世界,即是沙漠。而我,即是绿洲。追随我的人,也在追随宿命。 我,是恕瑞玛的黎明。 飞升者,应该带领凡人走向昌盛。 忠诚,将得到回报。 加入我,然后,得到擢升。所有眼睛都在看着我们。 我将让恕瑞玛复兴。 挑战恕瑞玛,挑战命运。我们会让早已遗失的东西重见天日。我们走在一条辉煌之路上。我们，是历史的执笔人。这个正在沉睡的世界，必须觉醒。</p>
+    </body>
+  </html>
