@@ -1,5 +1,4 @@
 <html lang="zh-cn">
-  <link href="styles/test.css"rel="stylesheet"type="text/css"/>
   <head>
     <meta charset="utf-8">
     <title>恕瑞玛的遗迹</title>
