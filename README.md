@@ -2,6 +2,7 @@
   <head>
     <meta charset="utf-8">
     <title>恕瑞玛的遗迹</title>
+    <link href="just-ice-land.github.io/新建文本文档.txt"rel="stylesheet"type="text/css"/>
     </head>
   <body>
     background-color:#E6E6E6;
