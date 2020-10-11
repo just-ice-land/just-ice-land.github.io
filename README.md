@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8"/>
     <title>恕瑞玛的遗迹</title>
-    <link href="just-ice-land.github.io/新建文本文档.txt"rel="stylesheet"type="text/css"/>
+    <link href="just-ice-land.github.io/css"stylesheet"type="text/css"/>
     </head>
   <body>
     <h1>你们的皇帝回来了</h1>
